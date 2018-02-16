@@ -6,7 +6,7 @@ INTUZ is presenting an interesting Yii2 component to validate your REST APIs. It
 <h1>Features</h1>
 
 - Pass array of required params for any REST API into component's function
-- function will check and return with any missing params or if any param is passed as blank
+- Function will check and return with any missing params or if any param is passed as blank
 
 
 <h1>Getting Started</h1>
